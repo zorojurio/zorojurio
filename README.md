@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @zorojurio
-- 👀 I’m interested in python and django
-- 🌱 I’m currently learning AWS, Python Rrquests
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python, Django, Linux, AWS, Bash
+- 🌱 I’m a Debian User
+- 💞️ I’m looking to collaborate on Open Source Development
 - 📫 How to reach me ...
+- 
+
 
 <!---
 zorojurio/zorojurio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
