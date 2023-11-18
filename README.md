@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zorojurio
-- 👀 I’m interested in Python, Django, Linux, AWS, Bash
-- 🌱 I’m a Debian User
+- 👀 I’m interested in Python, Django, FastAPI, Flask, Linux, AWS, Bash
+- 🌱 I’m a Debian/Ubuntu User
 - 💞️ I’m looking to collaborate on Open Source Development
 - 📫 How to reach me [...](https://www.linkedin.com/in/chanuka-chathuranga/)
 - 
